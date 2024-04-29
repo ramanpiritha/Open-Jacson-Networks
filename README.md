@@ -1,4 +1,6 @@
-# Date : 
+# Name: Piritharaman R
+# Ref no: 212223230148
+
 # Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
@@ -18,14 +20,11 @@ Visual components and Python
 
 
 ## Experiment:
+![open image 1](https://github.com/ramanpiritha/Open-Jacson-Networks/assets/147084116/f542d208-d692-4c37-a1c8-ea5859481a50)
+![open image 2](https://github.com/ramanpiritha/Open-Jacson-Networks/assets/147084116/c5a3214b-0095-44ab-9c2d-42942051f353)
 
 
 ## Program
-
-Developed by : HARINI R.
-
-Register Number : 212223100010
-
 
 ``````
 
